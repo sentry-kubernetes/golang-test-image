@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: golang-example-dsn
+type: Opaque
+data:
+  dsn: xxxxxxxxxxxxxxxxxxxxxxx
